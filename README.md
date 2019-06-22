@@ -3,6 +3,13 @@ WarsawJS Workshop #33: Projekt aplikacji w Vue.js do listowania długów wobec i
 
 Ten dokument opisuje aplikację którą będziemy kodować podczas WarsawJS Workshop #33 w tematyce Vue.js dla początkujących.
 
+## Środowisko pracy
+Generalny opis: https://warsawjs.github.io/workshop-setup/33/4/
+Dodatkowo rekomenduję:
+- Vetur (do VS Code)
+- Plugin do ESLinta dla plików Vue
+- Vue.js devtools (https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
 ## Instalacja i budowanie
 
 ``` bash
@@ -19,4 +26,4 @@ npm run build
 npm run build --report
 ```
 
-Rozszerzony opis projektu: <TODO>
+Rozszerzony opis projektu: https://docs.google.com/document/d/1jWuJV6EaSS3AliTh9piwdky2EK_x_aQYAACIEl2vPgo/edit?usp=sharing

@@ -5,6 +5,9 @@ Ten dokument opisuje aplikację którą będziemy kodować podczas WarsawJS Work
 
 ## Środowisko pracy
 Generalny opis: https://warsawjs.github.io/workshop-setup/33/4/
+
+(!) Jak przygotować się w VS Code: https://code.visualstudio.com/docs/nodejs/vuejs-tutorial
+
 Dodatkowo rekomenduję:
 - Vetur (do VS Code)
 - Plugin do ESLinta dla plików Vue

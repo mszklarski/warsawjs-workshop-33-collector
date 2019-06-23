@@ -20,7 +20,7 @@ Dodatkowo rekomenduję:
 npm install
 
 # build i hot reload na localhost:8080
-npm run dev
+npm run serve
 
 # build produkcyjny
 npm run build

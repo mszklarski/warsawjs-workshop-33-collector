@@ -1,9 +1,5 @@
 <template>
-  <v-app>
-    <v-content>
       <Layout/>
-    </v-content>
-  </v-app>
 </template>
 
 <script>
